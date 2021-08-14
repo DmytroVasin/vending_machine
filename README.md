@@ -10,6 +10,9 @@ Virtual vending machine application which emulates the goods buying operations a
 - It notify the customer when the selected product is out of stock
 - It return inserted coins in case it does not have enough change
 
+## Screenshot:
+![A representation of how CCBill Webhooks work](https://raw.githubusercontent.com/DmytroVasin/vending_machine/master/images/img.png)
+
 ## To run programm:
 `bin/vm`
 
